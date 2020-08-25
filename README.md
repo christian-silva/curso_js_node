@@ -1,1 +1,2 @@
-# curso_js_node
+# Código do Curso da Udemy sobre JS 
+## Parte de NodeJS server
